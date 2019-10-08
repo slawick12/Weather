@@ -1,0 +1,14 @@
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cache
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cs
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.AssemblyInfoInputs.cache
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.AssemblyInfo.cs
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/bin/Debug/netcoreapp2.2/API.deps.json
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.json
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.dev.json
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/bin/Debug/netcoreapp2.2/API.dll
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/bin/Debug/netcoreapp2.2/API.pdb
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.dll
+/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/Debug/netcoreapp2.2/API.pdb

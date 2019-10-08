@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/slawickyaschenko/WebProjects/WeatherApi/Api/Api.csproj": {}
+    "/Users/slawickyaschenko/WebProjects/WeatherApi/API/API.csproj": {}
   },
   "projects": {
-    "/Users/slawickyaschenko/WebProjects/WeatherApi/Api/Api.csproj": {
+    "/Users/slawickyaschenko/WebProjects/WeatherApi/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/slawickyaschenko/WebProjects/WeatherApi/Api/Api.csproj",
-        "projectName": "Api",
-        "projectPath": "/Users/slawickyaschenko/WebProjects/WeatherApi/Api/Api.csproj",
+        "projectUniqueName": "/Users/slawickyaschenko/WebProjects/WeatherApi/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/slawickyaschenko/WebProjects/WeatherApi/API/API.csproj",
         "packagesPath": "/Users/slawickyaschenko/.nuget/packages/",
-        "outputPath": "/Users/slawickyaschenko/WebProjects/WeatherApi/Api/obj/",
+        "outputPath": "/Users/slawickyaschenko/WebProjects/WeatherApi/API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "/Users/slawickyaschenko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -37,23 +37,22 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.1, )",
               "autoReferenced": true
             },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.1.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
